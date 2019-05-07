@@ -7,12 +7,20 @@
       "driver_info": {
         "ipmi_username": "quads",
         "ipmi_password": "490635",
+<<<<<<< HEAD
         "ipmi_address": "10.19.96.31",
+=======
+        "ipmi_address": "10.19.96.30",
+>>>>>>> 84b4e8adf4b95363a72929e72c7f94c03b7a68d7
         "deploy_kernel": "http://172.22.0.1/images/ironic-python-agent.kernel",
         "deploy_ramdisk": "http://172.22.0.1/images/ironic-python-agent.initramfs"
       },
       "ports": [{
+<<<<<<< HEAD
         "address": "d0:94:66:6c:4c:6d",
+=======
+        "address": "24:6e:96:c2:aa:c6",
+>>>>>>> 84b4e8adf4b95363a72929e72c7f94c03b7a68d7
         "pxe_enabled": true
       }],
       "properties": {
@@ -27,12 +35,20 @@
       "driver_info": {
         "ipmi_username": "quads",
         "ipmi_password": "490635",
+<<<<<<< HEAD
         "ipmi_address": "10.19.96.33",
+=======
+        "ipmi_address": "10.19.96.32",
+>>>>>>> 84b4e8adf4b95363a72929e72c7f94c03b7a68d7
         "deploy_kernel": "http://172.22.0.1/images/ironic-python-agent.kernel",
         "deploy_ramdisk": "http://172.22.0.1/images/ironic-python-agent.initramfs"
       },
       "ports": [{
+<<<<<<< HEAD
         "address": "d0:94:66:6e:48:19",
+=======
+        "address": "24:6e:96:c2:ad:86",
+>>>>>>> 84b4e8adf4b95363a72929e72c7f94c03b7a68d7
         "pxe_enabled": true
       }],
       "properties": {
@@ -47,12 +63,20 @@
       "driver_info": {
         "ipmi_username": "quads",
         "ipmi_password": "490635",
+<<<<<<< HEAD
         "ipmi_address": "10.19.96.85",
+=======
+        "ipmi_address": "10.19.96.84",
+>>>>>>> 84b4e8adf4b95363a72929e72c7f94c03b7a68d7
         "deploy_kernel": "http://172.22.0.1/images/ironic-python-agent.kernel",
         "deploy_ramdisk": "http://172.22.0.1/images/ironic-python-agent.initramfs"
       },
       "ports": [{
+<<<<<<< HEAD
         "address": "d0:94:66:6e:46:ed",
+=======
+        "address": "24:6e:96:c2:aa:b6",
+>>>>>>> 84b4e8adf4b95363a72929e72c7f94c03b7a68d7
         "pxe_enabled": true
       }],
       "properties": {
@@ -67,12 +91,20 @@
       "driver_info": {
         "ipmi_username": "quads",
         "ipmi_password": "490635",
+<<<<<<< HEAD
         "ipmi_address": "10.19.96.87",
+=======
+        "ipmi_address": "10.19.96.86",
+>>>>>>> 84b4e8adf4b95363a72929e72c7f94c03b7a68d7
         "deploy_kernel": "http://172.22.0.1/images/ironic-python-agent.kernel",
         "deploy_ramdisk": "http://172.22.0.1/images/ironic-python-agent.initramfs"
       },
       "ports": [{
+<<<<<<< HEAD
         "address": "d0:94:66:6e:46:c9",
+=======
+        "address": "24:6e:96:c2:aa:82",
+>>>>>>> 84b4e8adf4b95363a72929e72c7f94c03b7a68d7
         "pxe_enabled": true
       }],
       "properties": {
@@ -87,12 +119,20 @@
       "driver_info": {
         "ipmi_username": "quads",
         "ipmi_password": "490635",
+<<<<<<< HEAD
         "ipmi_address": "10.19.96.89",
+=======
+        "ipmi_address": "10.19.96.88",
+>>>>>>> 84b4e8adf4b95363a72929e72c7f94c03b7a68d7
         "deploy_kernel": "http://172.22.0.1/images/ironic-python-agent.kernel",
         "deploy_ramdisk": "http://172.22.0.1/images/ironic-python-agent.initramfs"
       },
       "ports": [{
+<<<<<<< HEAD
         "address": "d0:94:66:6d:be:21",
+=======
+        "address": "24:6e:96:c2:af:36",
+>>>>>>> 84b4e8adf4b95363a72929e72c7f94c03b7a68d7
         "pxe_enabled": true
       }],
       "properties": {
