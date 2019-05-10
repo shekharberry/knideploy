@@ -1,0 +1,20 @@
+###########################################################################
+# Internal repo
+[pbench]
+name=Pbench $releasever - $basearch
+baseurl=http://pbench.perf.lab.eng.bos.redhat.com/repo/production/$releasever/
+arch=$basearch
+enabled=1
+gpgcheck=0
+skip_if_unavailable=1
+
+# External COPR repo
+[copr-pbench]
+name=Copr repo for pbench owned by ndokos
+baseurl=https://copr-be.cloud.fedoraproject.org/results/ndokos/pbench/epel-7-$basearch/
+skip_if_unavailable=True
+gpgcheck=1
+gpgkey=https://copr-be.cloud.fedoraproject.org/results/ndokos/pbench/pubkey.gpg
+enabled=1
+enabled_metadata=1
+skip_if_unavailable=1
